@@ -1,0 +1,11 @@
+c:\users\nrajpurohit\source\repos\ChatServer\ChatServer\bin\Debug\netcoreapp2.2\ChatServer.deps.json
+c:\users\nrajpurohit\source\repos\ChatServer\ChatServer\bin\Debug\netcoreapp2.2\ChatServer.runtimeconfig.json
+c:\users\nrajpurohit\source\repos\ChatServer\ChatServer\bin\Debug\netcoreapp2.2\ChatServer.runtimeconfig.dev.json
+c:\users\nrajpurohit\source\repos\ChatServer\ChatServer\bin\Debug\netcoreapp2.2\ChatServer.dll
+c:\users\nrajpurohit\source\repos\ChatServer\ChatServer\bin\Debug\netcoreapp2.2\ChatServer.pdb
+c:\users\nrajpurohit\source\repos\ChatServer\ChatServer\obj\Debug\netcoreapp2.2\ChatServer.csprojResolveAssemblyReference.cache
+c:\users\nrajpurohit\source\repos\ChatServer\ChatServer\obj\Debug\netcoreapp2.2\ChatServer.csproj.CoreCompileInputs.cache
+c:\users\nrajpurohit\source\repos\ChatServer\ChatServer\obj\Debug\netcoreapp2.2\ChatServer.AssemblyInfoInputs.cache
+c:\users\nrajpurohit\source\repos\ChatServer\ChatServer\obj\Debug\netcoreapp2.2\ChatServer.AssemblyInfo.cs
+c:\users\nrajpurohit\source\repos\ChatServer\ChatServer\obj\Debug\netcoreapp2.2\ChatServer.dll
+c:\users\nrajpurohit\source\repos\ChatServer\ChatServer\obj\Debug\netcoreapp2.2\ChatServer.pdb
